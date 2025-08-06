@@ -19,7 +19,7 @@ Este projeto contém uma análise completa de um teste A/B realizado para avalia
   - Clique em **GitHub**
     - Insira o link deste repositório no espaço indicado (Link abaixo)
 >  `https://github.com/Luan-DataSpot/case-da-ifood-2025-luan-pallin`
-    - Clique na pasta `Case_iFood_Versao_Final.ipynb`
+  - Clique na pasta `Case_iFood_Versao_Final.ipynb`
 - O Notebook com o case será aberto =D
 
 
