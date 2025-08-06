@@ -1,9 +1,8 @@
-# case-da-ifood-2025-luan-pallin
-Case do iFood para Trillha de Data - DA e DE
-
 # READ ME
 
-# 📊 iFood A/B Test Analysis - Case Técnico
+##Bem vind@ ao Meu Case!
+##Case do iFood para Trillha de Data - DA e DE
+## 📊 iFood A/B Test - Case Técnico
 
 ## 🎯 Visão Geral
 Este projeto contém uma análise completa de um teste A/B realizado para avaliar a eficácia de uma campanha de cupons.
@@ -14,16 +13,22 @@ Este projeto contém uma análise completa de um teste A/B realizado para avalia
 
 ---
 
-### 1. Upload do Arquivo
-- Faça upload do arquivo `ifood_ab_test_analysis.py` no Google Colab
-- Ou copie e cole o conteúdo em células do notebook
+## 1. Abra o [Google Colab](https://colab.google)
+- Cria um novo Notebook ou clique no link ao lado >  [New Notebook](https://colab.new/)
+- Acesse a sequência de abas: **Arquivo > Abrir Notebook**
+  - Clique em **GitHub**
+    - Insira o link deste repositório no espaço indicado (Link abaixo)
+>  `https://github.com/Luan-DataSpot/case-da-ifood-2025-luan-pallin`
+    - Clique na pasta `Case_iFood_Versao_Final.ipynb`
+- O Notebook com o case será aberto =D
 
-### 2. Execução Sequencial
-Execute as células na ordem apresentada:
-1. Instalação de dependências
-2. Configuração do Spark
-3. Carregamento dos dados
-4. Análises e visualizações
+
+### 2. Execução
+- Geralmente ao reproduzir um notebook externo, como do github por exemplo, uma **Mensagem de Aviso** pode ocorrer mais ou menos assim:
+> `Aviso: este notebook não é de autoria do Google`
+- Caso isso ocorra, basta clicar em `Executar assim mesmo`
+
+
 
 ### 3. Tempo Estimado
 - ⏱️ **Duração total**: 30 minutos
