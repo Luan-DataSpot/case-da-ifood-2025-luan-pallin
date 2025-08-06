@@ -1,7 +1,7 @@
 # READ ME
 
-##Bem vind@ ao Meu Case!
-##Case do iFood para Trillha de Data - DA e DE
+## Bem vind@ ao Meu Case!
+## Case do iFood para Trillha de Data - DA e DE
 ## 📊 iFood A/B Test - Case Técnico
 
 ## 🎯 Visão Geral
